@@ -2,7 +2,7 @@ aliases: []
 creation_timestamp: 1707661295624
 current_stage: Production
 description: null
-last_updated_timestamp: 1707662217754
+last_updated_timestamp: 1707667770045
 name: diamond_price_predictor_v1
 run_id: 558ffabccf9a42529a05219ce7558e58
 run_link: null
