@@ -1,0 +1,6 @@
+artifact_location: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808
+creation_time: 1707661171498
+experiment_id: '779128597837821808'
+last_update_time: 1707661171498
+lifecycle_stage: active
+name: diamonds_price_predictor
