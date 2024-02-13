@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/bedf2c7afc3d4c8e9c126c43995c81c8/artifacts
+end_time: 1707695629315
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: bedf2c7afc3d4c8e9c126c43995c81c8
+run_name: bustling-asp-118
+run_uuid: bedf2c7afc3d4c8e9c126c43995c81c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707695626339
+status: 3
+tags: []
+user_id: mohammedzaidsyed

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/6e7014fd909d4375b4c364d6225f8979/artifacts
+end_time: 1707696922221
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: 6e7014fd909d4375b4c364d6225f8979
+run_name: judicious-mouse-661
+run_uuid: 6e7014fd909d4375b4c364d6225f8979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707696917650
+status: 3
+tags: []
+user_id: mohammedzaidsyed

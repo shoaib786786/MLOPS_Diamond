@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1707695629312
+current_stage: Production
+description: null
+last_updated_timestamp: 1707695629347
+name: diamond_price_predictor_linear
+run_id: bedf2c7afc3d4c8e9c126c43995c81c8
+run_link: null
+source: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/bedf2c7afc3d4c8e9c126c43995c81c8/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/bedf2c7afc3d4c8e9c126c43995c81c8/artifacts/model
+user_id: null
+version: 1

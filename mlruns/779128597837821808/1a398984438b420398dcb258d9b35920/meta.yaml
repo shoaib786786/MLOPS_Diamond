@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/1a398984438b420398dcb258d9b35920/artifacts
+end_time: 1707693745515
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: 1a398984438b420398dcb258d9b35920
+run_name: caring-pig-450
+run_uuid: 1a398984438b420398dcb258d9b35920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707693734931
+status: 3
+tags: []
+user_id: mohammedzaidsyed

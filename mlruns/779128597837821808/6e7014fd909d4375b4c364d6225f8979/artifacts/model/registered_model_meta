@@ -1,0 +1,2 @@
+model_name: diamond_price_predictor_xgb
+model_version: '1'
