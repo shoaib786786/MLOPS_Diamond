@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/a848b3226e804b8f9b0445f0d310a073/artifacts
+end_time: 1707785302620
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: a848b3226e804b8f9b0445f0d310a073
+run_name: redolent-loon-88
+run_uuid: a848b3226e804b8f9b0445f0d310a073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707785298192
+status: 3
+tags: []
+user_id: mohammedzaidsyed
