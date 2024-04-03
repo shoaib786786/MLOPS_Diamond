@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/7161445f62de4d67a260cf23c3c4f8fe/artifacts
+end_time: 1712158674355
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: 7161445f62de4d67a260cf23c3c4f8fe
+run_name: marvelous-shrimp-307
+run_uuid: 7161445f62de4d67a260cf23c3c4f8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712158671405
+status: 3
+tags: []
+user_id: mohammedzaidsyed

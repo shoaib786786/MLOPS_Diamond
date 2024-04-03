@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/a03dab80dbf44da486771fcc3c79577d/artifacts
+end_time: 1712159953927
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: a03dab80dbf44da486771fcc3c79577d
+run_name: unruly-horse-308
+run_uuid: a03dab80dbf44da486771fcc3c79577d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712159949263
+status: 3
+tags: []
+user_id: mohammedzaidsyed

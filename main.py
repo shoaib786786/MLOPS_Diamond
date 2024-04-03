@@ -27,7 +27,7 @@ def run_inference(user_input: List[InputData], dv: DictVectorizer, model: BaseEs
     dicts = df[CATEGORICAL_COLS].to_dict(orient="records")
     X = dv.transform(dicts)
     print(X.shape)
-    y = model.predict(X)
+    y = model.predict(X[:,0:13])
     # logger.info(f"Predicted trip duration: {y}")
     return y
  
