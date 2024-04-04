@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/5ab55b1474e34f049d8e468daa81feea/artifacts
+end_time: 1712269177694
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: 5ab55b1474e34f049d8e468daa81feea
+run_name: mysterious-shark-994
+run_uuid: 5ab55b1474e34f049d8e468daa81feea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712269173701
+status: 3
+tags: []
+user_id: mohammedzaidsyed

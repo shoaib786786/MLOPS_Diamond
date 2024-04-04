@@ -36,7 +36,7 @@ def read_root():
     return {"message": "Welcome to the Diamond Price Predictor!"}
  
 @app.post("/predict_diamond_price")
-def predict_duration_route(payload: InputData):
+def predict_diamond_price(payload: InputData):
     dv = load_preprocessor(PATH_TO_PREPROCESSOR)
     model = get_model(PATH_TO_MODEL)
     y = run_inference([payload], dv, model)
