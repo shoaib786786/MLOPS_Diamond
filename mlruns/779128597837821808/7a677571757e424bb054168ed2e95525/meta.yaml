@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/7a677571757e424bb054168ed2e95525/artifacts
+end_time: 1707697332095
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: 7a677571757e424bb054168ed2e95525
+run_name: bittersweet-wolf-684
+run_uuid: 7a677571757e424bb054168ed2e95525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707697328085
+status: 3
+tags: []
+user_id: mohammedzaidsyed

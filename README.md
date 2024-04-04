@@ -1,4 +1,4 @@
-# MLOPS_Diamond_Price_Predictor
+# Diamond Price Predictor
 
 Project Overview
 

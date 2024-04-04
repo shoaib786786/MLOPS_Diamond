@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/345e4305862e43a3ac50bd5e66a1917e/artifacts
+end_time: 1708000850376
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: 345e4305862e43a3ac50bd5e66a1917e
+run_name: kindly-fox-730
+run_uuid: 345e4305862e43a3ac50bd5e66a1917e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708000846452
+status: 3
+tags: []
+user_id: mohammedzaidsyed

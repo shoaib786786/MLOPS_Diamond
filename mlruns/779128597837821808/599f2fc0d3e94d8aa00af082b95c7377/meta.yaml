@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/599f2fc0d3e94d8aa00af082b95c7377/artifacts
+end_time: 1707998961139
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: 599f2fc0d3e94d8aa00af082b95c7377
+run_name: peaceful-stork-174
+run_uuid: 599f2fc0d3e94d8aa00af082b95c7377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707998956050
+status: 3
+tags: []
+user_id: mohammedzaidsyed

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/44274d48f660442aafe6097bb112559e/artifacts
+end_time: 1707661171690
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: 44274d48f660442aafe6097bb112559e
+run_name: invincible-cub-879
+run_uuid: 44274d48f660442aafe6097bb112559e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707661171610
+status: 4
+tags: []
+user_id: mohammedzaidsyed

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/c3e7560a72ea4982a01432942ce6cd4b/artifacts
+end_time: 1707693519282
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: c3e7560a72ea4982a01432942ce6cd4b
+run_name: magnificent-pug-513
+run_uuid: c3e7560a72ea4982a01432942ce6cd4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707693519023
+status: 4
+tags: []
+user_id: mohammedzaidsyed

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/558ffabccf9a42529a05219ce7558e58/artifacts
+end_time: 1707661295626
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: 558ffabccf9a42529a05219ce7558e58
+run_name: classy-conch-358
+run_uuid: 558ffabccf9a42529a05219ce7558e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707661289544
+status: 3
+tags: []
+user_id: mohammedzaidsyed
