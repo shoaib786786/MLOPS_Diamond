@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mohammedzaidsyed/Desktop/Diamond/MLOPS_Diamond/mlruns/779128597837821808/14be5df13e3c462e8ae316d4d8a30442/artifacts
+end_time: 1712181769837
+entry_point_name: ''
+experiment_id: '779128597837821808'
+lifecycle_stage: active
+run_id: 14be5df13e3c462e8ae316d4d8a30442
+run_name: sincere-elk-376
+run_uuid: 14be5df13e3c462e8ae316d4d8a30442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712181765842
+status: 3
+tags: []
+user_id: mohammedzaidsyed
